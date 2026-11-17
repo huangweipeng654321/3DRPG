@@ -8,7 +8,7 @@ Wave-based combat and tactical boss battles, with FSM enemy AI, NavMesh pathfind
 
 ## 🛠️ Tech Stack
 Engine: Unity
-Language: Unity visual scripting + C#
+Language: Unity Visual Scripting + C#
 
 ## 🚀 How to Run
 1. Clone the repository.
